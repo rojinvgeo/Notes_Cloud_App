@@ -53,7 +53,7 @@ Then Run in terminal:
 ```bash
 dart pub global activate flutterfire_cli
 ```
-**Then Run: **
+**Then Run:**
 ```bash
 flutterfire configure
 ```
